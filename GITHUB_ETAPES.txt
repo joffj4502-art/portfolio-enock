@@ -1,0 +1,20 @@
+METTRE TON PORTFOLIO SUR GITHUB — ÉTAPES SIMPLES
+
+1. Va sur https://github.com et connecte-toi.
+2. Clique sur le + en haut à droite, puis New repository.
+3. Nom du dépôt : portfolio-enock
+4. Choisis Public, puis clique sur Create repository.
+5. Dans le dépôt vide, clique sur Add file, puis Upload files.
+6. Fais glisser index.html, style.css et README.md depuis le dossier décompressé.
+7. Clique sur Commit changes.
+8. Va dans Settings, puis Pages.
+9. Dans Build and deployment, sélectionne Deploy from a branch.
+10. Choisis main et /(root), puis Save.
+11. Attends quelques minutes et actualise Settings > Pages. Le lien du site apparaîtra là.
+
+AVANT DE PUBLIER :
+- Dans index.html, remplace https://github.com/ton-pseudo par ton vrai profil GitHub.
+- Remplace tonadresse@example.com par l'adresse que tu veux afficher publiquement.
+- Ne publie pas de mot de passe, de code de connexion ou d'information privée.
+
+Pour tester localement, ouvre index.html dans ton navigateur. Garde index.html et style.css dans le même dossier.
