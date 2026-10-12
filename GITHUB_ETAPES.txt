@@ -1,0 +1,66 @@
+METTRE TON PORTFOLIO SUR GITHUB — ÉTAPES SIMPLES
+
+1. Va sur https://github.com et connecte-toi à ton compte.
+
+2. Ouvre ton dépôt existant :
+   https://github.com/joffj4502-art/portfolio-enock
+
+   Si tu n'as pas encore créé ce dépôt, clique sur le signe + en haut à droite, puis sur New repository.
+
+3. Si tu crées un nouveau dépôt, donne-lui le nom :
+   portfolio-enock
+
+4. Choisis Public, puis clique sur Create repository.
+
+5. Dans le dépôt, clique sur Add file, puis sur Upload files.
+
+6. Envoie les fichiers suivants depuis ton ordinateur :
+   - index.html
+   - style.css
+   - README.md
+   - GITHUB_ETAPES.txt
+
+   Si certains fichiers existent déjà, modifie-les plutôt que de créer des doublons.
+
+7. Clique sur Commit changes pour enregistrer les modifications.
+
+8. Dans ton dépôt, ouvre Settings, puis Pages.
+
+9. Dans la section Build and deployment, sélectionne :
+   - Source : Deploy from a branch
+   - Branch : main
+   - Folder : /(root)
+
+10. Clique sur Save si tu as modifié les paramètres.
+
+11. Attends quelques minutes, puis actualise Settings > Pages. Vérifie que la publication a réussi.
+
+ADRESSES IMPORTANTES
+
+Profil GitHub :
+https://github.com/joffj4502-art
+
+Dépôt du portfolio :
+https://github.com/joffj4502-art/portfolio-enock
+
+Adresse du site publié :
+https://joffj4502-art.github.io/portfolio-enock/
+
+AVANT DE PUBLIER
+
+- Dans index.html, utilise https://github.com/joffj4502-art pour le lien vers ton profil GitHub.
+- Pour le lien vers ton portfolio publié, utilise https://joffj4502-art.github.io/portfolio-enock/.
+- Vérifie que l'adresse e-mail inscrite dans le site est correcte et que tu acceptes de la rendre publique.
+- Ne publie jamais de mot de passe, de clé secrète, de code de connexion ou d'information confidentielle.
+
+TESTER LE SITE SUR TON ORDINATEUR
+
+1. Ouvre le dossier du projet.
+2. Vérifie que index.html et style.css sont dans le même dossier.
+3. Double-clique sur index.html pour l'ouvrir dans ton navigateur.
+
+IMPORTANT
+
+Le fichier index.html doit se trouver à la racine de la branche main, au même niveau que style.css.
+
+Si le site affiche une erreur 404, vérifie les paramètres GitHub Pages et l'état du déploiement dans l'onglet Actions du dépôt.
